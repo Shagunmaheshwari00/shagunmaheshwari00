@@ -1,16 +1,16 @@
 <h1 align="center">HELLO CODERS 👋, 
 <br>I AM SHAGUN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 
-- 🌱 I’m currently learning **C, Java**
+- 🌱 I’m currently learning **C, C++, Java, Html, Css, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://dipanshu1210.github.io/dipanshuvarshney](https://dipanshu1210.github.io/dipanshuvarshney)
+<!-- 👨‍💻 All of my projects are available at [https://dipanshu1210.github.io/dipanshuvarshney](https://dipanshu1210.github.io/dipanshuvarshney)-->
 
-- 📫 How to reach me **dipanshu.2023mca1140@kiet.edu**
+- 📫 How to reach me **shagunmaheshwari00@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10hut9RTQL8BG3_hJvbWKkoLCxMCw1yke/view?usp=drivesdk](https://drive.google.com/file/d/10hut9RTQL8BG3_hJvbWKkoLCxMCw1yke/view?usp=drivesdk)
+<!-- 📄 Know about my experiences [https://drive.google.com/file/d/10hut9RTQL8BG3_hJvbWKkoLCxMCw1yke/view?usp=drivesdk](https://drive.google.com/file/d/10hut9RTQL8BG3_hJvbWKkoLCxMCw1yke/view?usp=drivesdk)-->
 
 - ⚡ Fun fact **I'm funny**
 
